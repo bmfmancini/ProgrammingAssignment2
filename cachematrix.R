@@ -18,7 +18,7 @@
   
   
 
-## Write a short comment describing this function
+##the following function computes the the matrix 
 
   cacheSolve <- function(x=matrix() {
        m<-x$getmatrix()
@@ -26,7 +26,7 @@
       return(m)
     }
  matrix<-x$get
-       m<-solve(matrix)
+       m<-solve(matrix .)
         x$setmatrix(m)
          m
          }
